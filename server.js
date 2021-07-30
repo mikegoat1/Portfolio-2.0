@@ -6,7 +6,7 @@ const express = require("express"),
   PORT = process.env.PORT || 3001;
 require("dotenv").config();
 
-const session = require("express-session");
+
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
