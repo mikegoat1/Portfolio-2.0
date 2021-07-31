@@ -1,8 +1,9 @@
 import React from "react";
 import "./Home.css";
 
-import NB from "../../components/NavBar"
-import Hero from "../../components/Hero"
+import NB from "../../components/NavBar";
+import Hero from "../../components/Hero";
+import Carnival from "../../components/Carousel"; 
 
 import { Col } from "react-bootstrap";
 import { Row } from "react-bootstrap";
@@ -37,6 +38,11 @@ function Home() {
                     <h3 className="text-center" > Work</h3>
                     </Col>
 
+                </Row>
+                <Row>
+                    <Col>
+                        <Carnival/>
+                    </Col>
                 </Row>
 
             </Container>
