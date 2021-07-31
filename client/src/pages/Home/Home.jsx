@@ -2,6 +2,8 @@ import React from "react";
 import "./Home.css";
 
 import NB from "../../components/NavBar"
+import Hero from "../../components/Hero"
+
 import { Col } from "react-bootstrap";
 import { Row } from "react-bootstrap";
 import { Container } from "react-bootstrap";
@@ -16,9 +18,8 @@ function Home() {
 
     return (
         <div>
-            <Container>
-                <NB />
-            </Container>
+            <NB />
+            <Hero/>
             <Container>
                 <Row>
                     <Col>

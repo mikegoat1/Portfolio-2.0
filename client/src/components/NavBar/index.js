@@ -10,13 +10,13 @@ import { Col } from "react-bootstrap";
 
 function NB() {
     return (
-        <Navbar bg="light" >
-            <Container className="justify-content-end me-3 w-100 " >
+        <Navbar >
+            <Container className="justify-content-end" >
                 <Row>
-                    <Col>
-                        <Navbar.Brand className="" href="#home">Michael L. Johnson</Navbar.Brand>
+                    <Col >
+                        <Navbar.Brand className="mr-auto" href="#home">Michael L. Johnson</Navbar.Brand>
                     </Col>
-                    <Col xs="auto" >
+                    <Col xs="auto">
                         <Nav className="flex-wrap " >
                             <Nav.Link href="#home">About-Me</Nav.Link>
                             <Nav.Link href="#link">Work</Nav.Link>
