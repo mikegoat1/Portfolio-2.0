@@ -14,10 +14,10 @@ function NB() {
             <Container className="justify-content-end" >
                 <Row>
                     <Col >
-                        <Navbar.Brand className="mr-auto" href="#home">Michael L. Johnson</Navbar.Brand>
+                        <Navbar.Brand className="mr-auto text-left" href="#home">Michael L. Johnson</Navbar.Brand>
                     </Col>
                     <Col xs="auto">
-                        <Nav className="flex-wrap " >
+                        <Nav className="flex-wrap text-right " >
                             <Nav.Link href="#home">About-Me</Nav.Link>
                             <Nav.Link href="#link">Work</Nav.Link>
                             <Nav.Link href="#home">Contact-Me</Nav.Link>

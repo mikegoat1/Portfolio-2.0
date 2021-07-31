@@ -20,7 +20,7 @@ function Home() {
         <div>
             <NB />
             <Hero />
-            <Container className="mt-5" >
+            <Container  className="mt-5 d-felx" >
                 <Row>
                     <Col md={4} >
                         <h3>About Me</h3>
@@ -32,7 +32,12 @@ function Home() {
                     </Col>
                     <hr></hr>
                 </Row>
+                <Row>
+                    <Col  >
+                    <h3 className="text-center" > Work</h3>
+                    </Col>
 
+                </Row>
 
             </Container>
 
