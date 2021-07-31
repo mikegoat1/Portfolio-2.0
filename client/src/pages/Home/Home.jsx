@@ -16,7 +16,9 @@ function Home() {
 
     return (
         <div>
-            <NB/>
+            <Container>
+                <NB />
+            </Container>
             <Container>
                 <Row>
                     <Col>
