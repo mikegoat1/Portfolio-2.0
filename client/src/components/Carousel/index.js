@@ -51,7 +51,7 @@ function Carnival() {
                         </a>
                         <Carousel.Caption>
                             <h3 style={{ backgroundColor: '#F1F6F9' }} >Ticket-Scalper</h3>
-                            <p style={{ backgroundColor: '#F1F6F9' }}  >We find the lowest price tickets in your neigborhoo. We sellin tickets heaaaaar!</p>
+                            <p style={{ backgroundColor: '#F1F6F9' }}  >We find the lowest price tickets in your neigborhood. We sellin tickets heaaaaar!</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
