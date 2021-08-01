@@ -44,6 +44,7 @@ function Home() {
                         <Carnival/>
                     </Col>
                 </Row>
+                <hr></hr>
 
             </Container>
 
