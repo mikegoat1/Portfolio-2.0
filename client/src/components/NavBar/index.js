@@ -10,18 +10,18 @@ import { Col } from "react-bootstrap";
 
 function NB() {
     return (
-        <Navbar >
-            <Container className="justify-content-end" >
+        <Navbar className="what" >
+            <Container  >
                 <Row>
                     <Col >
-                        <Navbar.Brand className="mr-auto text-left" href="#home">Michael L. Johnson</Navbar.Brand>
+                        <Navbar.Brand className="name text-left" href="#home">Michael L. Johnson</Navbar.Brand>
                     </Col>
-                    <Col xs="auto">
+                    <Col className="TheLink" xs="auto">
                         <Nav className="flex-wrap text-right " >
-                            <Nav.Link href="#home">About-Me</Nav.Link>
-                            <Nav.Link href="#link">Work</Nav.Link>
-                            <Nav.Link href="#home">Contact-Me</Nav.Link>
-                            <Nav.Link href="#link">Resume</Nav.Link>
+                            <Nav.Link href="#about-me">About-Me</Nav.Link>
+                            <Nav.Link href="#work">Work</Nav.Link>
+                            <Nav.Link href="#contact-me">Contact-Me</Nav.Link>
+                            <Nav.Link href="https://docs.google.com/document/d/1-ndNX64YapoizmpgtkVoYeJFh-AQtyvM4WtkMllvQrk/edit?usp=sharing">Resume</Nav.Link>
                         </Nav>
                     </Col>
                 </Row>

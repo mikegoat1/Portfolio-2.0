@@ -24,7 +24,7 @@ function Home() {
             <Container  className="mt-5 d-felx" >
                 <Row>
                     <Col md={4} >
-                        <h3>About Me</h3>
+                        <h3 id="about-me" >About Me</h3>
                     </Col>
                     <Col md={8} >
                         <p>
@@ -35,7 +35,7 @@ function Home() {
                 </Row>
                 <Row>
                     <Col  >
-                    <h3 className="text-center" > Work</h3>
+                    <h3 id="work" className="text-center" > Work</h3>
                     </Col>
 
                 </Row>

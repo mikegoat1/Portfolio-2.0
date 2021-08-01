@@ -1,3 +1,5 @@
 .set {
     width: 100%;
+    border-top: solid 6px #14274E;
+    border-bottom: solid 8px #14274E;
 }

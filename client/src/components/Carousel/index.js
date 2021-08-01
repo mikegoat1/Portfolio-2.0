@@ -17,12 +17,12 @@ function Carnival() {
                     <Carousel.Item>
                         <img
                             className="d-block"
-                            src="holder.js/800x400?text=First slide&bg=373940"
+                            src="https://mikegoat1.github.io/FliccPicker/assets/images/FLICCPICKER.png?text=First slide&bg=373940"
                             alt="First slide"
                         />
                         <Carousel.Caption>
-                            <h3>First slide label</h3>
-                            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                            <h3>FliccPicker</h3>
+                            <p>We help decide what to watch in a sea of choices.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
