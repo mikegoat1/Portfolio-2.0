@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-2.0/static/css/main.699a3c5e.chunk.css",
+    "main.js": "/portfolio-2.0/static/js/main.6edddfe4.chunk.js",
+    "main.js.map": "/portfolio-2.0/static/js/main.6edddfe4.chunk.js.map",
+    "runtime-main.js": "/portfolio-2.0/static/js/runtime-main.c3b550f6.js",
+    "runtime-main.js.map": "/portfolio-2.0/static/js/runtime-main.c3b550f6.js.map",
+    "static/js/2.3a977536.chunk.js": "/portfolio-2.0/static/js/2.3a977536.chunk.js",
+    "static/js/2.3a977536.chunk.js.map": "/portfolio-2.0/static/js/2.3a977536.chunk.js.map",
+    "static/js/3.f6e01807.chunk.js": "/portfolio-2.0/static/js/3.f6e01807.chunk.js",
+    "static/js/3.f6e01807.chunk.js.map": "/portfolio-2.0/static/js/3.f6e01807.chunk.js.map",
+    "index.html": "/portfolio-2.0/index.html",
+    "static/css/main.699a3c5e.chunk.css.map": "/portfolio-2.0/static/css/main.699a3c5e.chunk.css.map",
+    "static/js/2.3a977536.chunk.js.LICENSE.txt": "/portfolio-2.0/static/js/2.3a977536.chunk.js.LICENSE.txt",
+    "static/media/Google.f3954808.png": "/portfolio-2.0/static/media/Google.f3954808.png",
+    "static/media/Great-Quiz.41f8c639.png": "/portfolio-2.0/static/media/Great-Quiz.41f8c639.png",
+    "static/media/Hero.1d2c8e0e.png": "/portfolio-2.0/static/media/Hero.1d2c8e0e.png",
+    "static/media/Note.18bd069a.png": "/portfolio-2.0/static/media/Note.18bd069a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b550f6.js",
+    "static/js/2.3a977536.chunk.js",
+    "static/css/main.699a3c5e.chunk.css",
+    "static/js/main.6edddfe4.chunk.js"
+  ]
+}
