@@ -1,9 +1,10 @@
 import React from "react";
 import "./Home.css";
 
-import NB from "../../components/NavBar";
+import Header from "../../components/NavBar";
 import Hero from "../../components/Hero";
 import Carnival from "../../components/Carousel"; 
+import Subfooter from "../../components/subFooter";
 
 import { Col } from "react-bootstrap";
 import { Row } from "react-bootstrap";
@@ -19,7 +20,7 @@ function Home() {
 
     return (
         <div>
-            <NB />
+            <Header />
             <Hero />
             <Container  className="mt-5 d-felx" >
                 <Row>
@@ -45,7 +46,9 @@ function Home() {
                     </Col>
                 </Row>
                 <hr></hr>
-
+                <Row>
+                    <Subfooter/>
+                </Row>
             </Container>
 
 

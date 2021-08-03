@@ -8,7 +8,7 @@ import { Col } from "react-bootstrap";
 
 
 
-function NB() {
+function Header() {
     return (
         <Navbar className="what" >
             <Container  >
@@ -30,4 +30,4 @@ function NB() {
     );
 }
 
-export default NB;
+export default Header;

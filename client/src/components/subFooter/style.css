@@ -1,0 +1,16 @@
+.theborder {
+    border: #9BA4B4 solid 3px;
+}
+
+#phone,
+#email,
+#github,
+#twitter,
+#linkedin {
+   
+    margin:auto 0; 
+    text-decoration: none;
+    color: #394867
+   
+   
+}
