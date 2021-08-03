@@ -1,9 +1,9 @@
 import React from "react";
 import "./Home.css";
 
-import Header from "../../components/NavBar";
+import Header from "../../components/Header";
 import Hero from "../../components/Hero";
-import Carnival from "../../components/Carousel"; 
+import Carnival from "../../components/Project"; 
 import Subfooter from "../../components/subFooter";
 
 import { Col } from "react-bootstrap";
