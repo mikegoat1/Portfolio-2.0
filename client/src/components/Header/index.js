@@ -8,6 +8,7 @@ import { Col } from "react-bootstrap";
 
 import resume from "../../UCLA Resume 8-6-21.pdf"; 
 
+import {AiOutlineDownload} from "react-icons/ai"
 
 
 function Header() {
@@ -24,6 +25,7 @@ function Header() {
                             <Nav.Link href="#work">Work</Nav.Link>
                             <Nav.Link href="#contact-me">Contact-Me</Nav.Link>
                             <Nav.Link href={resume}>Resume</Nav.Link>
+                            <Nav.Link href={resume} download={resume} ><AiOutlineDownload/></Nav.Link>
                         </Nav>
                     </Col>
                 </Row>
