@@ -6,6 +6,8 @@ import { Nav } from "react-bootstrap";
 import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 
+import resume from "../../UCLA Resume 8-6-21.pdf"; 
+
 
 
 function Header() {
@@ -21,7 +23,7 @@ function Header() {
                             <Nav.Link href="#about-me">About-Me</Nav.Link>
                             <Nav.Link href="#work">Work</Nav.Link>
                             <Nav.Link href="#contact-me">Contact-Me</Nav.Link>
-                            <Nav.Link href="https://docs.google.com/document/d/1-ndNX64YapoizmpgtkVoYeJFh-AQtyvM4WtkMllvQrk/edit?usp=sharing">Resume</Nav.Link>
+                            <Nav.Link href={resume}>Resume</Nav.Link>
                         </Nav>
                     </Col>
                 </Row>
