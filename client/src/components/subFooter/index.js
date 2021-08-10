@@ -14,9 +14,6 @@ function Subfooter(){
                     <h3 style={{color:"#394867"}} id="contact-me" ><strong>Contact-Me</strong></h3>
                     </Col>
                     <Col>
-                    <a id="phone" href="tel:2139260655"> Call/Message</a>
-                    </Col>
-                    <Col>
                     <a id="email" href="mailto:mikeg.o.a.t.1@gmail.com">mikeg.o.a.t.1@gmail.com</a>
                     </Col>
                     <Col>
