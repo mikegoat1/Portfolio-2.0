@@ -3,7 +3,7 @@ import "./Home.css";
 
 import Header from "../../components/Header";
 import Hero from "../../components/Hero";
-import Carnival from "../../components/Project"; 
+import Carnival from "../../components/Carnival"; 
 import Subfooter from "../../components/subFooter";
 
 import { Col } from "react-bootstrap";
