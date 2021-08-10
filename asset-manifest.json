@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio-2.0/static/css/main.01cd45fc.chunk.css",
-    "main.js": "/Portfolio-2.0/static/js/main.926e258e.chunk.js",
-    "main.js.map": "/Portfolio-2.0/static/js/main.926e258e.chunk.js.map",
-    "runtime-main.js": "/Portfolio-2.0/static/js/runtime-main.bb8dc8cb.js",
-    "runtime-main.js.map": "/Portfolio-2.0/static/js/runtime-main.bb8dc8cb.js.map",
-    "static/js/2.fc92a983.chunk.js": "/Portfolio-2.0/static/js/2.fc92a983.chunk.js",
-    "static/js/2.fc92a983.chunk.js.map": "/Portfolio-2.0/static/js/2.fc92a983.chunk.js.map",
-    "static/js/3.f6e01807.chunk.js": "/Portfolio-2.0/static/js/3.f6e01807.chunk.js",
-    "static/js/3.f6e01807.chunk.js.map": "/Portfolio-2.0/static/js/3.f6e01807.chunk.js.map",
+    "main.js": "/Portfolio-2.0/static/js/main.b5584cca.chunk.js",
+    "main.js.map": "/Portfolio-2.0/static/js/main.b5584cca.chunk.js.map",
+    "runtime-main.js": "/Portfolio-2.0/static/js/runtime-main.ab78c23f.js",
+    "runtime-main.js.map": "/Portfolio-2.0/static/js/runtime-main.ab78c23f.js.map",
+    "static/js/2.a6b5e835.chunk.js": "/Portfolio-2.0/static/js/2.a6b5e835.chunk.js",
+    "static/js/2.a6b5e835.chunk.js.map": "/Portfolio-2.0/static/js/2.a6b5e835.chunk.js.map",
+    "static/js/3.2472ba43.chunk.js": "/Portfolio-2.0/static/js/3.2472ba43.chunk.js",
+    "static/js/3.2472ba43.chunk.js.map": "/Portfolio-2.0/static/js/3.2472ba43.chunk.js.map",
     "index.html": "/Portfolio-2.0/index.html",
     "static/css/main.01cd45fc.chunk.css.map": "/Portfolio-2.0/static/css/main.01cd45fc.chunk.css.map",
-    "static/js/2.fc92a983.chunk.js.LICENSE.txt": "/Portfolio-2.0/static/js/2.fc92a983.chunk.js.LICENSE.txt",
+    "static/js/2.a6b5e835.chunk.js.LICENSE.txt": "/Portfolio-2.0/static/js/2.a6b5e835.chunk.js.LICENSE.txt",
     "static/media/Google.f3954808.png": "/Portfolio-2.0/static/media/Google.f3954808.png",
     "static/media/Great-Quiz.41f8c639.png": "/Portfolio-2.0/static/media/Great-Quiz.41f8c639.png",
     "static/media/Hero.1d2c8e0e.png": "/Portfolio-2.0/static/media/Hero.1d2c8e0e.png",
@@ -20,9 +20,9 @@
     "static/media/UCLA Resume 8-6-21.69b97d9b.pdf": "/Portfolio-2.0/static/media/UCLA Resume 8-6-21.69b97d9b.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb8dc8cb.js",
-    "static/js/2.fc92a983.chunk.js",
+    "static/js/runtime-main.ab78c23f.js",
+    "static/js/2.a6b5e835.chunk.js",
     "static/css/main.01cd45fc.chunk.css",
-    "static/js/main.926e258e.chunk.js"
+    "static/js/main.b5584cca.chunk.js"
   ]
 }
