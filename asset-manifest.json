@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio-2.0/static/css/main.01cd45fc.chunk.css",
-    "main.js": "/Portfolio-2.0/static/js/main.b5584cca.chunk.js",
-    "main.js.map": "/Portfolio-2.0/static/js/main.b5584cca.chunk.js.map",
+    "main.css": "/Portfolio-2.0/static/css/main.bc20e4e2.chunk.css",
+    "main.js": "/Portfolio-2.0/static/js/main.cf370df8.chunk.js",
+    "main.js.map": "/Portfolio-2.0/static/js/main.cf370df8.chunk.js.map",
     "runtime-main.js": "/Portfolio-2.0/static/js/runtime-main.ab78c23f.js",
     "runtime-main.js.map": "/Portfolio-2.0/static/js/runtime-main.ab78c23f.js.map",
     "static/js/2.a6b5e835.chunk.js": "/Portfolio-2.0/static/js/2.a6b5e835.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2472ba43.chunk.js": "/Portfolio-2.0/static/js/3.2472ba43.chunk.js",
     "static/js/3.2472ba43.chunk.js.map": "/Portfolio-2.0/static/js/3.2472ba43.chunk.js.map",
     "index.html": "/Portfolio-2.0/index.html",
-    "static/css/main.01cd45fc.chunk.css.map": "/Portfolio-2.0/static/css/main.01cd45fc.chunk.css.map",
+    "static/css/main.bc20e4e2.chunk.css.map": "/Portfolio-2.0/static/css/main.bc20e4e2.chunk.css.map",
     "static/js/2.a6b5e835.chunk.js.LICENSE.txt": "/Portfolio-2.0/static/js/2.a6b5e835.chunk.js.LICENSE.txt",
     "static/media/Google.f3954808.png": "/Portfolio-2.0/static/media/Google.f3954808.png",
     "static/media/Great-Quiz.41f8c639.png": "/Portfolio-2.0/static/media/Great-Quiz.41f8c639.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.ab78c23f.js",
     "static/js/2.a6b5e835.chunk.js",
-    "static/css/main.01cd45fc.chunk.css",
-    "static/js/main.b5584cca.chunk.js"
+    "static/css/main.bc20e4e2.chunk.css",
+    "static/js/main.cf370df8.chunk.js"
   ]
 }
