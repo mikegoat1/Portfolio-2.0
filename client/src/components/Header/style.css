@@ -3,3 +3,14 @@
   
 }
 
+body.modal-open {
+    overflow: visible;
+}
+
+.closeBtn {
+    background-color:#9BA4B4; 
+}
+
+.saveBtn {
+    background-color:#394867; 
+}
