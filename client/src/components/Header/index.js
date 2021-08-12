@@ -15,7 +15,7 @@ function Header() {
     return (
         <Navbar className="what" >
             <Container  >
-                <Row>
+                <Row className="d-flex flex-grow-1">
                     <Col >
                         <Navbar.Brand className="name text-left" href="#home">Michael L. Johnson</Navbar.Brand>
                     </Col>
@@ -26,6 +26,7 @@ function Header() {
                             <Nav.Link href="#contact-me">Contact-Me</Nav.Link>
                             <Nav.Link href={resume}>Resume</Nav.Link>
                             <Nav.Link href={resume} download={resume} ><AiOutlineDownload/></Nav.Link>
+
                         </Nav>
                     </Col>
                 </Row>
