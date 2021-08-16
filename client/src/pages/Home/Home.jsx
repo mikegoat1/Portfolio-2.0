@@ -33,7 +33,14 @@ function Home() {
                     </Col>
                     <Col md={8} >
                         <p>
-                            I am Michael L Johnson! One of the most widely used names in USA. I've come a long way in this journey of computing. I have jumped around from many positions and job titles. I have professional experience ranging from the thrills of DJ'n and bartending to slow moments in a law firm. Each one of them brought me closer to my overall objective. Coding! I've always had an interest in tech and bringing up new ideas. I started coding back in my younger days helping my father make custom computers. I started to take coding as a career path around 2018. I do some coarses part-time at Santa Monica College and some courses online. That go the ball moving for me to enroll and get a certificate in Full-Stack Development at a bootcamp in UCLA.
+
+                            Full-stack Developer in creating and managing websites. 
+                            Recently earned a Certificate in Full-stack Development from UCLA, expanding skills in HTML, CSS, React, NoSql, MySQL, Bootstrap, and JavaScript.
+                             I pride myself on persistence, patience and adaptation to new and challenging environments. 
+                             During my time at UCLA, I served as a project manager to multiple groups, helping to establish weekly goals as well as strategies and timelines for accomplishing those goals. 
+                             The freedom of coding and the discipline of utilizing a new competency to make it run efficiently not only excites but motivates me. 
+                             Passionate about creating life-enhancing user experiences and collaborating with others to develop meaningful mobile and web applications. 
+                             My professional background in technologies and other mediums, also my drive for problem solving makes me a great piece to add to any organization.
                         </p>
                     </Col>
                     <hr></hr>
@@ -52,7 +59,7 @@ function Home() {
                 <hr></hr>
                 <Row className="mt-5" >
                     <Col md={4} >
-                    <h3>Tech:</h3>
+                        <h3>Tech:</h3>
                     </Col>
                     <Col md={4}>
                         <ul>
