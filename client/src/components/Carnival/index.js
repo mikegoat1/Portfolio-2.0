@@ -68,7 +68,7 @@ function Carnival() {
                         />
 
                         <Carousel.Caption>
-                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}  >The most super of quizes!</strong> </p>
+                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}  >Dynamic DOM manipulation to create a quiz. Tech: Javascript, jQuery, HTML5, CSS3</strong> </p>
                             <Button className="me-2" href="https://github.com/mikegoat1/The-Great-Quiz" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://mikegoat1.github.io/The-Great-Quiz/" style={{ backgroundColor: '#394867' }} >Deployed</Button>
                         </Carousel.Caption>
