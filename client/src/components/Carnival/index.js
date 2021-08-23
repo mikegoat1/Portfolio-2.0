@@ -84,7 +84,7 @@ function Carnival() {
 
                         <Carousel.Caption>
                             <p> <strong style={{ backgroundColor: '#F1F6F9' }}  >
-                                Take some notes with me!
+                                Take some notes with me! Tech: Express, Path, HTML5, CSS3, jQuery
                             </strong> </p>
                             <Button className="me-2" href="https://github.com/mikegoat1/Lets-Take-Notes" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://tranquil-headland-79814.herokuapp.com" style={{ backgroundColor: '#394867' }} >Deployed</Button>
