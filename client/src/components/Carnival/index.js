@@ -99,7 +99,7 @@ function Carnival() {
                         />
                         <Carousel.Caption>
                             <h3>  <strong style={{ backgroundColor: '#F1F6F9' }}  >GoogleDB</strong></h3>
-                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}   >Add and sort through books.</strong></p>
+                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}   >Add and sort through books.Tech: React, Mongoose, Express, MongoDB, Axios </strong></p>
                             <Button className="me-2" href="https://github.com/mikegoat1/GoogleB" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://secure-beyond-11669.herokuapp.com" style={{ backgroundColor: '#394867' }} >Deployed</Button>
                         </Carousel.Caption>
