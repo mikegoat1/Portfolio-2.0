@@ -23,7 +23,7 @@ function Carnival() {
                         />
 
                         <Carousel.Caption>
-                            <p> <strong style={{ backgroundColor: '#F1F6F9' }} >We help decide what to watch in a sea of choices.</strong> </p>
+                            <p> <strong style={{ backgroundColor: '#F1F6F9' }} >Netflix decision maker. Tech: HTML5, CSS, jQuery, Ajax </strong> </p>
                             <Button className="me-2" href="https://github.com/RandonRussell85/FliccPicker" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://mikegoat1.github.io/FliccPicker/" style={{ backgroundColor: '#394867' }} >Deployed</Button>
                         </Carousel.Caption>
@@ -39,7 +39,7 @@ function Carnival() {
 
                         <Carousel.Caption>
                             <p><strong style={{ backgroundColor: '#F1F6F9' }}>
-                                One stop shop for all your podcasting needs.
+                                Podcasting rating and comment platform. Tech: React, Express, Mongoose, MongoDB, Passport,React-bootstrap 
                             </strong> </p>
                             <Button className="me-2" href="https://github.com/chrischo94/audioFreq" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://audio-freq.herokuapp.com" style={{ backgroundColor: '#394867' }} >Deployed</Button>
