@@ -54,7 +54,7 @@ function Carnival() {
                         />
                         <Carousel.Caption>
                             <h3> <strong style={{ backgroundColor: '#F1F6F9' }}  >Ticket-Scalper </strong></h3>
-                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}  > We find the lowest price tickets in your neigborhood. We sellin tickets heaaaaar!</strong></p>
+                            <p> <strong style={{ backgroundColor: '#F1F6F9' }}  > Platform to help find tickets for events in your area. Tech: Handlebars, Sequelize, CSS, Sequelize, Javascript, Express-session, DotEnv  </strong></p>
                             <Button className="me-2" href="https://github.com/mikegoat1/Ticket-Scalper" style={{ backgroundColor: '#394867' }} >GitHub</Button>
                             <Button href="https://maple-eh-00291.herokuapp.com" style={{ backgroundColor: '#394867' }} >Deployed</Button>
                         </Carousel.Caption>
